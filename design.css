@@ -1,0 +1,31 @@
+.info{
+	background-color: #BAD1C2;
+	width: 700px;
+	margin: 50px 50px;
+	height: 350px;
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 0 10px 10px rgba(255, 255, 255,10%);
+	position: relative;
+	display: flex;
+	left: 18.5%;
+	top: 70px;
+}
+
+form{
+	text-align: center;
+	justify-content: space-between;
+	align-items: center;
+}
+
+#tableau{
+	left: 35%;
+	top: 100px;
+	display: flex;
+	position: relative;
+}
+
+#inputs{
+	position: relative;
+	left: 50px;
+}
